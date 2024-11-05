@@ -1,0 +1,15 @@
+D:\Users\zse\Desktop\pop-git\pop-git1\bin\Debug\net6.0\pop-git1.exe
+D:\Users\zse\Desktop\pop-git\pop-git1\bin\Debug\net6.0\pop-git1.deps.json
+D:\Users\zse\Desktop\pop-git\pop-git1\bin\Debug\net6.0\pop-git1.runtimeconfig.json
+D:\Users\zse\Desktop\pop-git\pop-git1\bin\Debug\net6.0\pop-git1.dll
+D:\Users\zse\Desktop\pop-git\pop-git1\bin\Debug\net6.0\pop-git1.pdb
+D:\Users\zse\Desktop\pop-git\pop-git1\obj\Debug\net6.0\pop-git1.csproj.AssemblyReference.cache
+D:\Users\zse\Desktop\pop-git\pop-git1\obj\Debug\net6.0\pop-git1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\zse\Desktop\pop-git\pop-git1\obj\Debug\net6.0\pop-git1.AssemblyInfoInputs.cache
+D:\Users\zse\Desktop\pop-git\pop-git1\obj\Debug\net6.0\pop-git1.AssemblyInfo.cs
+D:\Users\zse\Desktop\pop-git\pop-git1\obj\Debug\net6.0\pop-git1.csproj.CoreCompileInputs.cache
+D:\Users\zse\Desktop\pop-git\pop-git1\obj\Debug\net6.0\pop-git1.dll
+D:\Users\zse\Desktop\pop-git\pop-git1\obj\Debug\net6.0\refint\pop-git1.dll
+D:\Users\zse\Desktop\pop-git\pop-git1\obj\Debug\net6.0\pop-git1.pdb
+D:\Users\zse\Desktop\pop-git\pop-git1\obj\Debug\net6.0\pop-git1.genruntimeconfig.cache
+D:\Users\zse\Desktop\pop-git\pop-git1\obj\Debug\net6.0\ref\pop-git1.dll
